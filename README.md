@@ -1,4 +1,5 @@
-#Trabalho_10
+#Trabalho_10  
+
 1 Baixar o código:  Para baixar, basta clicar no botão (Code) depois, faz o dowload da pasta compacta e depois pode abrir o codigo dentro da pasta ou extrair-la pra outro diretorio.
 
 2 Compilar o código:  Abra o terminal no local onde arquivo está, após abrir o terminal digite o comando: gcc TR10_540092.c -o teste
